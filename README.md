@@ -19,4 +19,11 @@ or
 
 > pip install -r requirements.txt  
 
+## API Key
+
+Create a .env file and add the following code:
+
+> OPENAI_API_KEY=xxxxxxxx
+
+
 
