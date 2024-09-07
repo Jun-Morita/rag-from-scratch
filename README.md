@@ -25,3 +25,4 @@ Create a .env file and add the following code:
 
 > LANGCHAIN_API_KEY=xxxxxxxx
 > OPENAI_API_KEY=xxxxxxxx
+> COHERE_API_KEY=xxxxxxxx
